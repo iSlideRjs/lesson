@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/lesson/static/css/main.8c90ec61.css",
-    "main.js": "/lesson/static/js/main.fc9cea04.js",
+    "main.css": "/lesson/static/css/main.a0e0aec5.css",
+    "main.js": "/lesson/static/js/main.fdb5ae28.js",
     "static/media/vanya.jpg": "/lesson/static/media/vanya.228aca4c40900067ecf0.jpg",
-    "static/media/vv.svg": "/lesson/static/media/vv.3c8a0684abc6c84795ba91def3c58b34.svg",
+    "static/media/vk.svg": "/lesson/static/media/vk.ecdb83befdb41183a6f97fa3f352031c.svg",
+    "static/media/vv.svg": "/lesson/static/media/vv.eebcb251087af0d330d73b4736007a41.svg",
     "index.html": "/lesson/index.html",
-    "main.8c90ec61.css.map": "/lesson/static/css/main.8c90ec61.css.map",
-    "main.fc9cea04.js.map": "/lesson/static/js/main.fc9cea04.js.map"
+    "main.a0e0aec5.css.map": "/lesson/static/css/main.a0e0aec5.css.map",
+    "main.fdb5ae28.js.map": "/lesson/static/js/main.fdb5ae28.js.map"
   },
   "entrypoints": [
-    "static/css/main.8c90ec61.css",
-    "static/js/main.fc9cea04.js"
+    "static/css/main.a0e0aec5.css",
+    "static/js/main.fdb5ae28.js"
   ]
 }
