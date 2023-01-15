@@ -28,22 +28,54 @@ body {
 }
 
 .avatar {
-  margin: 20px;
+  margin-top: 20px;
   width: 300px;
-
-  border-radius: 50px;
+  border-radius: 20px;
   background: $dark;
   &Img {
-    border-radius: 50px;
+    border-radius: 20px;
   }
-}
-
-.add {
-  margin-left: 65px;
-  color: white;
+  &Footer {
+    margin: 0 auto;
+  }
 }
 
 .text {
   width: 100%;
   margin-top: 20px;
+}
+
+.tabl {
+  margin-top: 10px;
+}
+
+.end {
+  color: #f700eb;
+}
+
+.imgH {
+  margin-top: -8px;
+}
+
+.vk {
+  display: flex;
+  justify-content: center;
+}
+
+@media only screen and (max-width: 767px) {
+  .cont {
+    justify-content: center;
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+  .avatar {
+    margin-left: 50px;
+  }
+}
+
+@media only screen and (max-width: 991px) {
+  .avatar {
+    width: 280px;
+  }
 }

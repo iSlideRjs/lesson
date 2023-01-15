@@ -14,7 +14,7 @@ const Header = () => {
               src={vv}
               width="35"
               height="35"
-              className="d-inline-block align-top"
+              className="d-inline-block imgH"
             />{' '}
             V Vanya
           </Navbar.Brand>
